@@ -1,0 +1,9 @@
+# Step 1 Dependencies - Video Download and Validation
+boto3>=1.26.0
+opencv-python>=4.8.0
+
+# Future dependencies (will be added in later phases):
+# mediapipe>=0.10.0
+# openai>=1.0.0  
+# psycopg2-binary>=2.9.0
+# numpy>=1.24.0 
