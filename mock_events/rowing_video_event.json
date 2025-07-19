@@ -1,0 +1,7 @@
+{
+  "Records": [
+    {
+      "body": "{\"Type\": \"Notification\", \"MessageId\": \"local-test-4a7ce3bd-6779-4a46-afcc-982bf26efdad\", \"TopicArn\": \"arn:aws:sns:us-west-2:123456789012:exercise-tracker-dev-video-upload-notifications\", \"Subject\": \"Amazon S3 Notification\", \"Message\": \"{\\\"Records\\\": [{\\\"eventVersion\\\": \\\"2.1\\\", \\\"eventSource\\\": \\\"aws:s3\\\", \\\"awsRegion\\\": \\\"us-west-2\\\", \\\"eventTime\\\": \\\"2025-01-01T12:00:00.000Z\\\", \\\"eventName\\\": \\\"ObjectCreated:Put\\\", \\\"s3\\\": {\\\"bucket\\\": {\\\"name\\\": \\\"exercise-tracker-fa20651d-064c-4a95-8540-edfe2af691cd\\\"}, \\\"object\\\": {\\\"key\\\": \\\"exercises/rowing_session_2.mp4\\\", \\\"size\\\": 1000000}}}]}\"}"
+    }
+  ]
+}
